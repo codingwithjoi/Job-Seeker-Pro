@@ -10,5 +10,6 @@ A daily front-end coding project to build JobSeekerPro, a job application tracke
 | Day | Component | Description | Live Demo | GitHub |
 |-----|-----------|-------------|-----------|--------|
 | 1   | `Header`  | Responsive site header... | [Live]() | [Code]() |
+| 2   | `Job Card`| Reusable job listing card with status + notes | 
 
 ...
